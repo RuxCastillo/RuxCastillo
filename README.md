@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @RuxCastillo
-- 👀 I’m interested in learning all about programming, rigth now focus in Front-end.
-- 🌱 I’m currently learning Undemy with Colt Steele and Dr. Angela Yu, freeCodeCamp, soon Odin project and looking for a CS degree.
-- 💞️ I’m looking to collaborate on anything that can help me.
-- 📫 How to reach me for my e-mail rubenldc1412@gmail.com
-- 😄 Pronouns: RuxCastillo
+- 👀 I’m interested in learning all about Full Stack, right now my focus is in Front-end.
+- 🌱 I’m currently learning Undemy with Colt Steele and Dr. Angela Yu and learning in freeCodeCamp.
+- 💞️ I’m looking to collaborate on anything that I can help.
+- 📫 rubenldc1412@gmail.com.
 
 
 <!---
