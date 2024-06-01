@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RuxCastillo
+- 📚 University student.
 - 👀 I’m interested in learning all about Full Stack, right now my focus is in Front-end.
 - 🌱 I’m currently learning Undemy with Colt Steele and Dr. Angela Yu and learning in freeCodeCamp.
 - 💞️ I’m looking to collaborate on anything that I can help.
